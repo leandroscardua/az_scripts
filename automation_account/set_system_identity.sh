@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # Before run the script add values to the varibles below
 subscriptionId=
 resourceGroupName=
